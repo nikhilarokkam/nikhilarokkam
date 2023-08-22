@@ -1,18 +1,22 @@
-### Hi there 👋
+<h1 align="center">
+  <b>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rokkam Nikhila</b>
+</h1>
 
-🌍 I'm based in Mumbai
+<h3 align="center">Web Developer</h3>
 
-🖥️ See my portfolio at https://sarvesh2902.github.io/
+- 🌍 I'm based in Vizianagaram
 
-🚀 I’m currently working on Portfolio Generator, ProtoHubs.IO, SUD Life Insurance
+- 🖥️ See my portfolio at https://rokkam-nikhila-portfolio.netlify.app/
 
-🧠 I’m currently learning ML and DS, DSA
+<!-- - 🚀 I’m currently working at Wspl Hosting Solu-->
 
-🤝 I’m looking to collaborate on Web Development Projects
+- 🧠 I’m currently learning ML and DSA
 
-💬 Ask me about MERN Stack, Python, NextJS
+- 🤝 I’m looking to collaborate on Web Development Projects
 
-✉️ You can also reach out to me at sarvesh2902@gmail.com
+<!-- - 💬 Ask me about MERN Stack, Python, NextJS-->
+
+- ✉️ You can also reach out to me at rokkamnikhila2003@gmail.com
 
 <!--
 **nikhilarokkam/nikhilarokkam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
