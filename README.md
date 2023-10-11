@@ -10,7 +10,7 @@
 
 <!-- - 🚀 I’m currently working at Wspl Hosting Solu-->
 
-- 🧠 I’m currently learning ML and DSA
+- 🧠 I’m currently learning DSA
 
 - 🤝 I’m looking to collaborate on Web Development Projects
 
