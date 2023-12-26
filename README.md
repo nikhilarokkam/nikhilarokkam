@@ -4,7 +4,7 @@
 
 <h3 align="center">Full Stack Developer</h3>
 
-- 🌍 I'm based in Vizianagaram
+- 🌍 I'm based in Vizianagaram, Andhra Pradesh
 
 - 🖥️ See my portfolio at https://rokkam-nikhila-portfolio.netlify.app/
 
