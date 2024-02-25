@@ -6,13 +6,13 @@
 
 - 🌍 I'm based in Vizianagaram, Andhra Pradesh
 
-- 👩🏻‍💻 Freelancer: Available for freelance projects
-
 - 🖥️ See my portfolio at https://rokkam-nikhila-portfolio.netlify.app/
 
 <!-- - 🚀 I’m currently working at Wspl Hosting Solu-->
 
 - 🧠 I’m currently learning DSA
+
+- 👩🏻‍💻 Freelancer: Available for freelance projects
 
 - 🤝 I’m looking to collaborate on Web Development Projects
 
