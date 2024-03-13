@@ -2,21 +2,15 @@
   <b>Hi, I'm Rokkam Nikhila</b>
 </h1>
 
-<h3 align="center">Full Stack Developer 🚀</h3>
+<h3 align="center">Software Developer 👩🏻‍💻| Freelance Web Designer 🚀</h3>
 
 - 🌍 I'm based in Vizianagaram, Andhra Pradesh
 
 - 🖥️ See my portfolio at https://rokkam-nikhila-portfolio.netlify.app/
 
-<!-- - 🚀 I’m currently working at Wspl Hosting Solu-->
-
 - 🧠 I’m currently learning DSA
 
-- 👩🏻‍💻 Freelancer: Available for freelance projects
-
 - 🤝 I’m looking to collaborate on Web Development Projects
-
-<!-- - 💬 Ask me about MERN Stack, Python, NextJS-->
 
 - ✉️ You can also reach out to me at rokkamnikhila2003@gmail.com
 
