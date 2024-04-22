@@ -2,7 +2,7 @@
   <b>Hi, I'm Rokkam Nikhila</b>
 </h1>
 
-<h3 align="center">Software Developer 👩🏻‍💻 | Freelance Web Designer 🚀</h3>
+<h3 align="center">Full Stack Developer 👩🏻‍💻 | Freelance Web Developer 🚀</h3>
 
 - 🌍 I'm based in Vizianagaram, Andhra Pradesh
 
