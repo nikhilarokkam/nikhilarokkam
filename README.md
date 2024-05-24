@@ -51,8 +51,8 @@ Here are some ideas to get you started:
 </div>
 
 ## 📊 GitHub Stats
-<!--[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=nikhilarokkam&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=nikhilarokkam&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)-->
-<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nikhilarokkam&theme=dark&background=000000)](https://git.io/streak-stats)-->
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=nikhilarokkam&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=nikhilarokkam&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nikhilarokkam&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilarokkam&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
