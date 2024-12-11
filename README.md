@@ -8,8 +8,6 @@
 
 - 🖥️ See my portfolio at https://rokkam-nikhila-portfolio.netlify.app/
 
-- 🧠 I’m currently learning DSA
-
 - 🤝 I’m looking to collaborate on Web Development Projects
 
 - ✉️ You can also reach out to me at rokkamnikhila2003@gmail.com
