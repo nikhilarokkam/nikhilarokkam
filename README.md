@@ -2,13 +2,12 @@
   <b>Hey there 👋, I'm Rokkam Nikhila</b>
 </h1>
 
-<h3 align="center">Full Stack Developer 👩🏻‍💻 | Freelance Web Developer 🚀</h3>
+I am a Full Stack Web Developer currently leading the Tech at Web Around Technologies, with a focus on building high-performance websites and solutions. 🚀
+I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in JavaScript, Node.js, React, PHP, and MySQL etc. I've worked across various tech stacks, leading development efforts from the front-end to back-end, and building scalable products from scratch while focusing on speed, accessibility, and user experience.
 
-- 🌍 I'm based in Vizianagaram, Andhra Pradesh
+I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me watching tech-related YouTube videos, fueling my curiosity.
 
-- 🤝 I’m looking to collaborate on Web Development Projects
-
-- ✉️ You can also reach out to me at rokkamnikhilarn2003@gmail.com
+Feel free to connect with me @nikhilarokkam for all things tech or just to say hello! Let's shape the future of tech together. 🌟
 
 ## 👩‍💻 Work Experience
 - *Web Developer at [Web Around Technologies Private Limited](https://webaround.in/)*
