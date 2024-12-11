@@ -16,7 +16,7 @@
 - *Web Developer at [Web Around Technologies Private Limited](https://webaround.in/)*
 - *Former Full Stack Developer Intern at [TouristTribe](https://touristtribe.org/)*   
 - *Former Software Developer Intern at [Skarvi Systems Limited](https://skarvisystems.co.uk/)*  
-- *Former WordPress Developer Intern at [BuzzBeamDigital](https://in.linkedin.com/company/health247biz)*  
+- *Former WordPress Developer Intern at [BuzzBeamDigital](https://in.linkedin.com/company/health247biz) (now Health247.Biz)*  
 - *Former Web Developer Intern at [Siraom Private Limited](https://wainsy.com/)*
 
 ## 🌐 Socials
