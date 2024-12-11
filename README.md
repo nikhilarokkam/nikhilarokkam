@@ -13,11 +13,11 @@
 - ✉️ You can also reach out to me at rokkamnikhilarn2003@gmail.com
 
 ## 👩‍💻 Work Experience
-- **Web Developer** at [Web Around Technologies Private Limited](https://webaround.in/) 
-- **Former Full Stack Developer Intern** at [TouristTribe](https://touristtribe.org/)   
-- **Former Software Developer Intern** at [Skarvi Systems Limited](https://skarvisystems.co.uk/)  
-- **Former WordPress Developer Intern** at [BuzzBeamDigital](https://in.linkedin.com/company/health247biz)  
-- **Former Web Developer Intern** at [Siraom Private Limited](https://wainsy.com/) 
+- *Web Developer at [Web Around Technologies Private Limited](https://webaround.in/)*
+- *Former Full Stack Developer Intern at [TouristTribe](https://touristtribe.org/)*   
+- *Former Software Developer Intern at [Skarvi Systems Limited](https://skarvisystems.co.uk/)*  
+- *Former WordPress Developer Intern at [BuzzBeamDigital](https://in.linkedin.com/company/health247biz)*  
+- *Former Web Developer Intern at [Siraom Private Limited](https://wainsy.com/)*
 
 ## 🌐 Socials
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/nikhila-rokkam-54a817259/)
