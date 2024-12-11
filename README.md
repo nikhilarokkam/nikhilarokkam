@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>Hi, I'm Rokkam Nikhila</b>
+  <b>Hi 👋, I'm Rokkam Nikhila</b>
 </h1>
 
 <h3 align="center">Full Stack Developer 👩🏻‍💻 | Freelance Web Developer 🚀</h3>
