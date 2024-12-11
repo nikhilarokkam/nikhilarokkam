@@ -6,8 +6,6 @@
 
 - 🌍 I'm based in Vizianagaram, Andhra Pradesh
 
-- 🖥️ See my portfolio at https://rokkam-nikhila-portfolio.netlify.app/
-
 - 🤝 I’m looking to collaborate on Web Development Projects
 
 - ✉️ You can also reach out to me at rokkamnikhilarn2003@gmail.com
