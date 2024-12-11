@@ -14,8 +14,7 @@
 
 ## 👩‍💻 Work Experience
 - **Web Developer** at Web Around Technologies Private Limited 
-- **Former Full Stack Developer Intern** at TouristTribe  
-- **Former WordPress Developer** at Ubersuggest by Neil Patel  
+- **Former Full Stack Developer Intern** at TouristTribe   
 - **Former Software Developer Intern** at Skarvi Systems Limited  
 - **Former WordPress Developer Intern** at BuzzBeamDigiral  
 - **Former Web Developer Intern** at Siraom Private Limited 
