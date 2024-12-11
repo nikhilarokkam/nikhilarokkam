@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking to collaborate on Web Development Projects
 
-- ✉️ You can also reach out to me at rokkamnikhila2003@gmail.com
+- ✉️ You can also reach out to me at rokkamnikhilarn2003@gmail.com
 
 ## 🌐 Socials
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/nikhila-rokkam-54a817259/)
