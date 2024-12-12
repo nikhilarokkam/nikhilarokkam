@@ -4,6 +4,9 @@
 
 <h3>Glad to see you here!</h3>
 
+<!--Profile Views-->
+<!--![](https://komarev.com/ghpvc/?username=nikhilarokkam&abbreviated=true)-->
+
 I am a Full Stack Developer currently leading the Tech at Web Around Technologies, with a focus on building high-performance websites and solutions.
 I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in JavaScript, Python, PHP, Laravel, MySQL, Node.js, React etc. I've worked across various tech stacks, leading development efforts from the front-end to back-end, and building scalable products from scratch while focusing on speed, accessibility, and user experience.
 
