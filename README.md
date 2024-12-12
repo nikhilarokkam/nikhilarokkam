@@ -52,7 +52,7 @@ Here are some ideas to get you started:
   <li>🚀   I’m currently exploring WordPress, API Integrations, Gen AI, etc.</li>
   <li>💻   I love exploring new technologies and building cool stuff.</li>
   <li>👾   Fun fact: Equal is Not Always Equal in JS.</li>
-  <li>📫   Reach me out: rokkamnikhilarn2003@gmail.com.</li>
+  <li>📫   Reach me out: <a href="mailto:rokkamnikhilarn2003@gmail.com">rokkamnikhilarn2003@gmail.com</a>.</li>
 </ul>
 
 ## 💻 Tech Stack
