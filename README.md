@@ -60,7 +60,7 @@ Here are some ideas to get you started:
  <img src="https://github.com/user-attachments/assets/17c45887-e7a1-4f21-856a-be4b544ca283" title="Python" alt="Python" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/91ec3442-71e7-4865-92dc-659ec1e9618a" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/eeafcf08-ae14-4b7b-8a3d-8eacece655bf" title="PHP" alt="PHP" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" title="Laravel" alt="Laravel" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
+ <img src="https://github.com/user-attachments/assets/fd154078-2379-4fbc-9c65-0b75f4805166" title="Laravel" alt="Laravel" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/ac910234-9e39-4d99-a6f2-6cbe8d5d2037" title="WordPress"  alt="WordPress" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
