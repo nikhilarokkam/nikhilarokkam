@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 </ul>
 
 ## 💻 Tech Stack
-<div>
+<div style="margin:auto;">
  <img src="https://github.com/user-attachments/assets/17c45887-e7a1-4f21-856a-be4b544ca283" title="Python" alt="Python" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/91ec3442-71e7-4865-92dc-659ec1e9618a" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/eeafcf08-ae14-4b7b-8a3d-8eacece655bf" title="PHP" alt="PHP" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
