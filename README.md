@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 <!--  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>&nbsp; -->
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp; -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongoDB"  alt="mongoDB" width="50" height="50"/>&nbsp;        
+ <img src="https://github.com/user-attachments/assets/93caf2c1-c8d2-4db1-878f-1ea5c0502004" title="mongoDB"  alt="mongoDB" width="50" height="50"/>&nbsp;        
 </div>
 
 ## ⚡ GitHub Stats
