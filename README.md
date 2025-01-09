@@ -22,7 +22,7 @@ Feel free to connect with me @nikhilarokkam for all things tech or just to say h
 - *Former Web Developer Intern at [Siraom Private Limited](https://wainsy.com/)*
 
 ## 🌐 Socials
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhila-rokkam-54a817259/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhila-rokkam-078690345/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/___being__nikki___/?hl=en)
 <!--
 **nikhilarokkam/nikhilarokkam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
