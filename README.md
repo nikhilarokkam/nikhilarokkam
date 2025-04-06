@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 <h3>Talking about Personal Stuff</h3>
 <ul>
   <li>🛠   I’m currently working with JS, PHP, Python, etc.</li>
-  <li>🚀   I’m currently exploring WordPress, API Integrations, Gen AI, etc.</li>
+  <li>🚀   I’m currently exploring Automation workflows, API Integrations, Gen AI, etc.</li>
   <li>💻   I love exploring new technologies and building cool stuff.</li>
   <li>👾   Fun fact: Equal is Not Always Equal in JS.</li>
   <li>📫   Reach me out: <a href="mailto:rokkamnikhilarn2003@gmail.com">rokkamnikhilarn2003@gmail.com</a>.</li>
