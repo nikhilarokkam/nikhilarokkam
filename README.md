@@ -16,6 +16,7 @@ Feel free to connect with me @nikhilarokkam for all things tech or just to say h
 
 ## 👩‍💻 Work Experience
 - *Web Developer at [Web Around Technologies Private Limited](https://webaround.in/)*
+- *Freelance Web Developer* at [Homeportal](https://homeportal.ca/)
 - *Former Full Stack Developer Intern at [TouristTribe](https://touristtribe.org/)*   
 - *Former Software Developer Intern at [Skarvi Systems Limited](https://skarvisystems.co.uk/)*  
 - *Former WordPress Developer Intern at [BuzzBeamDigital](https://www.linkedin.com/company/moving-upward/) (now Moving-Upward)*  
