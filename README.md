@@ -2,8 +2,6 @@
   <b>Hey there 👋, I'm Rokkam Nikhila</b>
 </h1>
 
-
-
 <h3>Glad to see you here!</h3>
 
 <!--Profile Views-->
