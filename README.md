@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 <ul>
   <li>🛠   Currently building with JS, PHP, Python, etc. focused on clean architecture and performance.</li>
   <li>🚀   I’m currently exploring Automation workflows, API Integrations, Gen AI, etc.</li>
-  <li>💻   I love exploring new technologies and building cool stuff.</li>
+  <li>💻   I love diving into new technologies and building cool stuff.</li>
   <li>👾   Fun fact: Equal is Not Always Equal in JS.</li>
   <li>📫   Reach me out: <a href="mailto:rokkamnikhilarn2003@gmail.com">rokkamnikhilarn2003@gmail.com</a>.</li>
 </ul>
