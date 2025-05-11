@@ -88,4 +88,4 @@ Here are some ideas to get you started:
 
 <h2 dir="auto"></h2>
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/JayantGoel001/JayantGoel001/blob/master/WEBP/footer.webp"><img src="/JayantGoel001/JayantGoel001/raw/master/WEBP/footer.webp" alt="footer" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href=""><img src="https://github.com/user-attachments/assets/ac316be2-1e22-4a5a-9456-13dedbb9389d" alt="footer" style="max-width: 100%;"></a></p>
