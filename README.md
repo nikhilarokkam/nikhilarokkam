@@ -86,6 +86,4 @@ Here are some ideas to get you started:
 <h3>Show some ❤️ by starring some of the repositories!</h3>
 </div>
 
-<h2 dir="auto"></h2>
-
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/nikhilarokkam"><img src="https://github.com/user-attachments/assets/ac316be2-1e22-4a5a-9456-13dedbb9389d" alt="footer" style="max-width: 100%;"></a></p>
