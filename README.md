@@ -2,7 +2,7 @@
   <b>Hey there 👋, I'm Rokkam Nikhila</b>
 </h1>
 
-<h3>Glad to see you here!</h3>
+<h2>Glad to see you here!</h2>
 
 <!--Profile Views-->
 <!--![](https://komarev.com/ghpvc/?username=nikhilarokkam&abbreviated=true)-->
@@ -81,11 +81,11 @@ Here are some ideas to get you started:
 ## ☄️ GitHub Streaks
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nikhilarokkam&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<h1 dir="auto"></h1>
+<h2 dir="auto"></h2>
 <div align="center">
 <h3>Show some ❤️ by starring some of the repositories!</h3>
 </div>
 
-<h1 dir="auto"></h1>
+<h2 dir="auto"></h2>
 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/JayantGoel001/JayantGoel001/blob/master/WEBP/footer.webp"><img src="/JayantGoel001/JayantGoel001/raw/master/WEBP/footer.webp" alt="footer" style="max-width: 100%;"></a></p>
