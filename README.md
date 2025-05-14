@@ -2,7 +2,7 @@
   <b>Hey there 👋, I'm Rokkam Nikhila</b>
 </h1>
 
-<h2>Glad to see you here!</h2>
+<h1>Glad to see you here!</h1>
 
 <!--Profile Views-->
 <!--![](https://komarev.com/ghpvc/?username=nikhilarokkam&abbreviated=true)-->
