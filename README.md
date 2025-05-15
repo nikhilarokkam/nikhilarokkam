@@ -7,8 +7,8 @@
 <!--Profile Views-->
 <!--![](https://komarev.com/ghpvc/?username=nikhilarokkam&abbreviated=true)-->
 
-I am a Web Developer currently leading the Tech at Web Around Technologies, with a focus on building high-performance websites and solutions.
-I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in JavaScript, Python, PHP, Laravel, MySQL, Node.js, React etc. I've worked across various tech stacks, leading development efforts from the front-end to back-end, integrating third-party APIs, automating complex workflows to drive efficiency and building scalable products from scratch while focusing on speed, accessibility, and user experience.
+I am a Web Developer currently leading the Tech at Web Around Technologies, with a focus on building high-performance websites and end-to-end digital solutions.
+I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in JavaScript, Python, PHP, Laravel, MySQL, Node.js, React, and more. I've worked across various tech stacks, leading development efforts from the front-end to back-end, integrating third-party APIs, automating workflows, and designing AI-powered systems using tools like Make.com to streamline processes and boost efficiency. Whether it’s launching new features, optimizing performance, or crafting user-centric experiences, I love turning ideas into reality with speed, accessibility, and precision.
 
 I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me watching tech-related YouTube videos, fueling my curiosity.
 
